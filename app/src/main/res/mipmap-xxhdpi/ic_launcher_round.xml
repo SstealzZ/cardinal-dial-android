@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M36,36m-36,0a36,36 0,1 1,72 0a36,36 0,1 1,-72 0" />
+    
+    <!-- Cardinal symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,12L40,32L36,28L32,32Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,36L40,32L44,36L40,40Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,60L32,40L36,44L40,40Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,36L32,40L28,36L32,32Z" />
+    
+    <!-- Center circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,36m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+        
+</vector>

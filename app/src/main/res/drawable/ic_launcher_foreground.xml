@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <group android:scaleX="0.8"
+           android:scaleY="0.8"
+           android:pivotX="54"
+           android:pivotY="54">
+           
+        <!-- Cardinal compass points -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,24L58,44L54,40L50,44Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M84,54L64,50L68,54L64,58Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,84L50,64L54,68L58,64Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M24,54L44,58L40,54L44,50Z" />
+        
+        <!-- Center circle -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,54m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+            
+    </group>
+    
+</vector>

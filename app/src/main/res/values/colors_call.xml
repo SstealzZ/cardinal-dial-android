@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Call interface colors -->
+    <color name="call_background">#1a1a1a</color>
+    <color name="call_text_secondary">#b3b3b3</color>
+    <color name="call_accept">#4CAF50</color>
+    <color name="call_decline">#F44336</color>
+    <color name="call_avatar_background">#333333</color>
+</resources>

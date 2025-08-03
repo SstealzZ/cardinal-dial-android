@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cardinal Dial</string>
+    <string name="hello_world">Hello World</string>
+    <string name="click_me">Cliquez-moi!</string>
+</resources>
